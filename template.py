@@ -18,6 +18,8 @@ files = [
     'DeepFake/exception.py',
     'DeepFake/__init__.py',
     'DeepFake/Utils/__init__.py',
+    'Artifacts',
+    'Docs',
     'main.py'
 ]
 
