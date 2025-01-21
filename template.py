@@ -1,25 +1,7 @@
 import os
 from pathlib import Path
 
-files = [
-    'DeepFake/Components/__init__.py',
-    'DeepFake/Components/Training.py',
-    'DeepFake/Components/Modeling.py',
-    'DeepFake/Components/Prediction.py',
-    'DeepFake/Components/Preprocessing.py',
-    'DeepFake/Components/Validation.py',
-    'DeepFake/Components/Data_Ingestion.py',
-    'DeepFake/Components/Data_Transform.py',
-    'DeepFake/Pipelines/__init__.py',
-    'DeepFake/Pipelines/Training.py',
-    'DeepFake/Pipelines/Testing.py',
-    'DeepFake/Pipelines/Prediction.py',
-    'DeepFake/logging.py',
-    'DeepFake/exception.py',
-    'DeepFake/__init__.py',
-    'DeepFake/Utils/__init__.py',
-    'main.py'
-]
+files = []
 
 # Loop through each file in the list
 for file in files:
