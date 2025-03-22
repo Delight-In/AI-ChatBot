@@ -13,7 +13,7 @@ Clone the repository
 ```bash
 conda create -n venv python=3.12 -y 
 ```
-
+https://github.com/Delight-In/AI-ChatBot.git
 ```bash
 conda activate venv 
 ```
